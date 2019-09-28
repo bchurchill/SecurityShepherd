@@ -14,6 +14,7 @@ You can download Security Shepherd VM's or Manual Installation Packs from [GitHu
 #### Initial Setup
 ```console
 # Install pre-reqs
+sudo apt update
 sudo apt install git maven docker docker-compose default-jdk
 
 # Clone the github repository
